@@ -1,5 +1,5 @@
 <h1>Network File Shares and Pemissions</h1>
-This tutorial provides an overview of implementing Group Policy and managing user accounts within a domain controller<br />
+This tutorial provides an overview of implementing Network File Shares and Permissions <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -11,7 +11,7 @@ This tutorial provides an overview of implementing Group Policy and managing use
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11 (25H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
