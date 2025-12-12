@@ -1,5 +1,5 @@
 <h1>Network File Shares and Pemissions</h1>
-This tutorial provides an overview of implementing Network File Shares and Permissions <br />
+This tutorial provides an overview of implementing Network File Shares and Permissions (Active Directory Setup Required)<br />
 
 <h2>Environments and Technologies Used</h2>
 
